@@ -1,0 +1,8 @@
+tabla,corte,esperado,calculado,cumple,observaciones
+internet_fijo_depto,2017,2310625,2310625,1,Concordancia exacta con Cuadro 11.7 MTC 2017
+internet_fijo_depto,2019,2404641,2404641,1,Concordancia exacta con OSIPTEL 2019
+internet_fijo_depto,2020,2751658,2751658,1,Concordancia exacta con OSIPTEL 2020
+internet_movil_depto_2017,2017_mas_sinLAC,20646962,20646962,1,"El total incluye 1.579.451 conexiones sin LAC, NO asignables a departamento"
+entrega,capitales,180,180,1,Las seis entregas agregadas suman 180
+detalle_entrega_mtc,km,13507,13507,1,Fuentes secundarias UP reproducen MTC 2016
+detalle_entrega_mtc,nodos,346,346,1,No confundir con nodos comerciales que contrataron enlaces
