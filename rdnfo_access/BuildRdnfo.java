@@ -76,7 +76,7 @@ public final class BuildRdnfo {
         List<String> cols=parseCsvLine(lines.get(0).replace("\uFEFF",""));
         TableBuilder builder=new TableBuilder(TABLES[idx]);
         for(String c:cols) {
-          ColumnBuilder cb=new ColumnBuilder(c).setType(colType(c));
+          ColumnBuilder cb=new ColumnBuilder(c, colType(c));
           builder.addColumn(cb);
         }
         Table table=builder.toTable(db);
