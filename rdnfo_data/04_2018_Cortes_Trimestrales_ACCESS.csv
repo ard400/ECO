@@ -1,0 +1,16 @@
+periodo,departamento,conexiones,url_fuente,precision
+2018Q1,TOTAL,2368185,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_I_2018.pdf,cifra_entera_texto_boletin
+2018Q1,LIMA,1377753,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_I_2018.pdf,cifra_entera_texto_boletin
+2018Q1,AREQUIPA,143331,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_I_2018.pdf,cifra_entera_texto_boletin
+2018Q1,LA LIBERTAD,126684,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_I_2018.pdf,cifra_entera_texto_boletin
+2018Q1,LORETO,15440,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_I_2018.pdf,cifra_entera_texto_boletin
+2018Q2,TOTAL,2441066,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_II_2018.pdf,cifra_entera_texto_boletin
+2018Q2,LIMA,1432319,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_II_2018.pdf,cifra_entera_texto_boletin
+2018Q2,AREQUIPA,133515,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_II_2018.pdf,cifra_entera_texto_boletin
+2018Q2,LA LIBERTAD,132548,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_II_2018.pdf,cifra_entera_texto_boletin
+2018Q2,LORETO,15494,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_II_2018.pdf,cifra_entera_texto_boletin
+2018Q3,TOTAL,2494186,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_III_2018.pdf,cifra_entera_texto_boletin
+2018Q3,LIMA,1452176,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_III_2018.pdf,cifra_entera_texto_boletin
+2018Q3,AREQUIPA,135894,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_III_2018.pdf,cifra_entera_texto_boletin
+2018Q3,LA LIBERTAD,136001,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_III_2018.pdf,cifra_entera_texto_boletin
+2018Q3,LORETO,15638,https://portal.mtc.gob.pe/comunicaciones/regulacion_internacional/estadistica_catastro/documentos/2018/Bolet%C3%ADn_III_2018.pdf,cifra_entera_texto_boletin
