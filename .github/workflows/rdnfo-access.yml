@@ -1,0 +1,48 @@
+name: Construir base RDNFO para Microsoft Access
+on:
+  push:
+    branches: [access-rdnfo-20261012]
+    paths:
+      - "rdnfo_access/**"
+      - "rdnfo_data/**"
+      - ".github/workflows/rdnfo-access.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build-access:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obtener código y datos
+        uses: actions/checkout@v4
+      - name: Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Descargar biblioteca para Access
+        run: |
+          curl --fail --location --silent --show-error --retry 3 \
+            https://repo.maven.apache.org/maven2/io/github/spannm/jackcess/5.1.7/jackcess-5.1.7.jar \
+            --output jackcess.jar
+          test -s jackcess.jar
+      - name: Crear base ACCDB autentica y verificar lectura
+        run: |
+          javac -encoding UTF-8 -cp jackcess.jar rdnfo_access/BuildRdnfo.java
+          java -cp rdnfo_access:jackcess.jar BuildRdnfo
+          test -s RDNFO_Seminario_Investigacion_Diaz_Rodas.accdb
+      - name: Guardar archivo Access en la rama separada
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add RDNFO_Seminario_Investigacion_Diaz_Rodas.accdb
+          if ! git diff --cached --quiet; then
+            git commit -m "Generar base Access RDNFO con 423 registros y 12 tablas"
+            git push origin HEAD:access-rdnfo-20261012
+          fi
+      - name: Archivo Access descargable
+        uses: actions/upload-artifact@v4
+        with:
+          name: RDNFO_Microsoft_Access_ACCDB
+          path: RDNFO_Seminario_Investigacion_Diaz_Rodas.accdb
+          retention-days: 30
