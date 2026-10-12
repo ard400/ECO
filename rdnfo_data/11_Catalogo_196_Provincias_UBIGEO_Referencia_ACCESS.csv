@@ -1,0 +1,197 @@
+ubigeo_provincia,departamento,provincia,idh_2019_compilado_aprox,pobreza_publicada_compilada_pct,advertencia,fuente_url
+10100,AMAZONAS,CHACHAPOYAS,0.543,22.02,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+10200,AMAZONAS,BAGUA,0.461,34.84,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+10300,AMAZONAS,BONGARA,0.413,33.24,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+10400,AMAZONAS,CONDORCANQUI,0.253,56.83,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+10500,AMAZONAS,LUYA,0.341,48.15,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+10600,AMAZONAS,RODRIGUEZ DE MENDOZA,0.366,33.21,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+10700,AMAZONAS,UTCUBAMBA,0.47,29.9,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+20100,ANCASH,HUARAZ,0.563,14.51,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+20200,ANCASH,AIJA,0.369,31.73,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+20300,ANCASH,ANTONIO RAYMONDI,0.316,41.13,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+20400,ANCASH,ASUNCION,0.389,33.41,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+20500,ANCASH,BOLOGNESI,0.453,27.11,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+20600,ANCASH,CARHUAZ,0.409,30.44,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+20700,ANCASH,CARLOS FERMIN FITZCARRALD,0.306,41.32,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+20800,ANCASH,CASMA,0.557,18.54,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+20900,ANCASH,CORONGO,0.388,41.45,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+21000,ANCASH,HUARI,0.424,30.59,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+21100,ANCASH,HUARMEY,0.574,15.07,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+21200,ANCASH,HUAYLAS,0.406,36.66,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+21300,ANCASH,MARISCAL LUZURIAGA,0.276,51.92,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+21400,ANCASH,OCROS,0.465,26.66,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+21500,ANCASH,PALLASCA,0.327,53.94,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+21600,ANCASH,POMABAMBA,0.342,41.62,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+21700,ANCASH,RECUAY,0.427,25.48,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+21800,ANCASH,SANTA,0.615,14.77,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+21900,ANCASH,SIHUAS,0.314,50.93,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+22000,ANCASH,YUNGAY,0.336,40.3,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+30100,APURIMAC,ABANCAY,0.521,24.32,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+30200,APURIMAC,ANDAHUAYLAS,0.422,37.39,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+30300,APURIMAC,ANTABAMBA,0.323,32.9,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+30400,APURIMAC,AYMARAES,0.355,36.6,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+30500,APURIMAC,COTABAMBAS,0.372,43.76,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+30600,APURIMAC,CHINCHEROS,0.344,44.89,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+30700,APURIMAC,GRAU,0.304,44.96,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+40100,AREQUIPA,AREQUIPA,0.669,6.49,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+40200,AREQUIPA,CAMANA,0.624,12.96,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+40300,AREQUIPA,CARAVELI,0.616,12.68,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+40400,AREQUIPA,CASTILLA,0.566,18.49,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+40500,AREQUIPA,CAYLLOMA,0.589,17.18,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+40600,AREQUIPA,CONDESUYOS,0.582,21.16,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+40700,AREQUIPA,ISLAY,0.631,10.18,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+40800,AREQUIPA,LA UNION,0.358,36.91,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+50100,AYACUCHO,HUAMANGA,0.489,24.43,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+50200,AYACUCHO,CANGALLO,0.329,48.74,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+50300,AYACUCHO,HUANCA SANCOS,0.383,42.47,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+50400,AYACUCHO,HUANTA,0.39,43.98,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+50500,AYACUCHO,LA MAR,0.333,46.67,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+50600,AYACUCHO,LUCANAS,0.425,40.73,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+50700,AYACUCHO,PARINACOCHAS,0.417,38.25,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+50800,AYACUCHO,PAUCAR DEL SARA SARA,0.436,29.88,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+50900,AYACUCHO,SUCRE,0.387,46.25,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+51000,AYACUCHO,VICTOR FAJARDO,0.375,53.02,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+51100,AYACUCHO,VILCAS HUAMAN,0.314,44.64,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+60100,CAJAMARCA,CAJAMARCA,0.535,33.69,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+60200,CAJAMARCA,CAJABAMBA,0.35,52.59,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+60300,CAJAMARCA,CELENDIN,0.323,57.94,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+60400,CAJAMARCA,CHOTA,0.361,58.11,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+60500,CAJAMARCA,CONTUMAZA,0.422,45.35,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+60600,CAJAMARCA,CUTERVO,0.355,57.5,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+60700,CAJAMARCA,HUALGAYOC,0.369,51.94,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+60800,CAJAMARCA,JAEN,0.494,39.36,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+60900,CAJAMARCA,SAN IGNACIO,0.36,51.97,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+61000,CAJAMARCA,SAN MARCOS,0.339,57.21,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+61100,CAJAMARCA,SAN MIGUEL,0.371,53.11,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+61200,CAJAMARCA,SAN PABLO,0.313,67.31,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+61300,CAJAMARCA,SANTA CRUZ,0.391,53.25,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+70100,CALLAO,CALLAO,0.64,16.89,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+80100,CUSCO,CUSCO,0.665,8.14,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+80200,CUSCO,ACOMAYO,0.298,40.04,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+80300,CUSCO,ANTA,0.395,29.47,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+80400,CUSCO,CALCA,0.389,34.02,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+80500,CUSCO,CANAS,0.257,49.69,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+80600,CUSCO,CANCHIS,0.468,28.81,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+80700,CUSCO,CHUMBIVILCAS,0.337,48.14,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+80800,CUSCO,ESPINAR,0.463,30.93,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+80900,CUSCO,LA CONVENCION,0.451,25.37,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+81000,CUSCO,PARURO,0.248,42.06,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+81100,CUSCO,PAUCARTAMBO,0.242,46.89,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+81200,CUSCO,QUISPICANCHI,0.347,41.34,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+81300,CUSCO,URUBAMBA,0.538,24.59,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+90100,HUANCAVELICA,HUANCAVELICA,0.426,33.7,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+90200,HUANCAVELICA,ACOBAMBA,0.309,41.08,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+90300,HUANCAVELICA,ANGARAES,0.326,47.59,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+90400,HUANCAVELICA,CASTROVIRREYNA,0.395,33.93,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+90500,HUANCAVELICA,CHURCAMPA,0.321,40.31,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+90600,HUANCAVELICA,HUAYTARA,0.401,28.69,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+90700,HUANCAVELICA,TAYACAJA,0.364,43.64,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+100100,HUANUCO,HUANUCO,0.529,21.1,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+100200,HUANUCO,AMBO,0.375,34.0,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+100300,HUANUCO,DOS DE MAYO,0.385,39.41,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+100400,HUANUCO,HUACAYBAMBA,0.318,53.2,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+100500,HUANUCO,HUAMALIES,0.378,39.27,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+100600,HUANUCO,LEONCIO PRADO,0.5,17.28,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+100700,HUANUCO,MARAÑON,0.329,37.6,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+100800,HUANUCO,PACHITEA,0.273,46.55,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+100900,HUANUCO,PUERTO INCA,0.387,23.64,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+101000,HUANUCO,LAURICOCHA,0.422,33.66,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+101100,HUANUCO,YAROWILCA,0.301,43.26,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+110100,ICA,ICA,0.64,3.2,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+110200,ICA,CHINCHA,0.588,3.13,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+110300,ICA,NAZCA,0.613,3.11,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+110400,ICA,PALPA,0.608,4.68,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+110500,ICA,PISCO,0.574,3.68,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+120100,JUNIN,HUANCAYO,0.576,12.8,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+120200,JUNIN,CONCEPCION,0.454,27.11,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+120300,JUNIN,CHANCHAMAYO,0.479,25.07,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+120400,JUNIN,JAUJA,0.501,23.96,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+120500,JUNIN,JUNIN,0.431,33.49,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+120600,JUNIN,SATIPO,0.394,35.49,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+120700,JUNIN,TARMA,0.477,22.78,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+120800,JUNIN,YAULI,0.637,12.78,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+120900,JUNIN,CHUPACA,0.51,20.33,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+130100,LA LIBERTAD,TRUJILLO,0.64,14.53,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+130200,LA LIBERTAD,ASCOPE,0.585,22.28,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+130300,LA LIBERTAD,BOLIVAR,0.295,52.76,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+130400,LA LIBERTAD,CHEPEN,0.559,26.69,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+130500,LA LIBERTAD,JULCAN,0.22,51.91,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+130600,LA LIBERTAD,OTUZCO,0.278,47.35,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+130700,LA LIBERTAD,PACASMAYO,0.579,24.34,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+130800,LA LIBERTAD,PATAZ,0.393,48.01,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+130900,LA LIBERTAD,SANCHEZ CARRION,0.286,49.2,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+131000,LA LIBERTAD,SANTIAGO DE CHUCO,0.352,46.29,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+131100,LA LIBERTAD,GRAN CHIMU,0.372,44.37,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+131200,LA LIBERTAD,VIRU,0.5,33.21,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+140100,LAMBAYEQUE,CHICLAYO,0.578,11.75,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+140200,LAMBAYEQUE,FERREÑAFE,0.423,28.53,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+140300,LAMBAYEQUE,LAMBAYEQUE,0.478,24.99,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+150100,LIMA,LIMA,0.726,26.25,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+150200,LIMA,BARRANCA,0.631,12.25,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+150300,LIMA,CAJATAMBO,0.385,31.63,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+150400,LIMA,CANTA,0.568,13.78,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+150500,LIMA,CAÑETE,0.685,14.28,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+150600,LIMA,HUARAL,0.632,12.28,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+150700,LIMA,HUAROCHIRI,0.552,15.86,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+150800,LIMA,HUAURA,0.651,13.56,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+150900,LIMA,OYON,0.577,23.35,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+151000,LIMA,YAUYOS,0.447,25.4,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+160100,LORETO,MAYNAS,0.564,22.19,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+160200,LORETO,ALTO AMAZONAS,0.436,35.99,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+160300,LORETO,LORETO,0.364,44.24,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+160400,LORETO,MARISCAL RAMON CASTILLA,0.352,43.94,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+160500,LORETO,REQUENA,0.377,47.7,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+160600,LORETO,UCAYALI,0.4,42.12,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+160700,LORETO,DATEM DEL MARAÑON,0.32,44.83,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+160800,LORETO,PUTUMAYO,0.399,43.71,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+170100,MADRE DE DIOS,TAMBOPATA,0.618,5.14,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+170200,MADRE DE DIOS,MANU,0.595,6.46,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+170300,MADRE DE DIOS,TAHUAMANU,0.644,5.27,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+180100,MOQUEGUA,MARISCAL NIETO,0.693,8.09,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+180200,MOQUEGUA,GENERAL SANCHEZ CERRO,0.531,20.51,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+180300,MOQUEGUA,ILO,0.686,6.0,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+190100,PASCO,PASCO,0.546,29.95,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+190200,PASCO,DANIEL ALCIDES CARRION,0.37,60.28,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+190300,PASCO,OXAPAMPA,0.428,33.8,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+200100,PIURA,PIURA,0.569,23.01,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+200200,PIURA,AYABACA,0.25,55.68,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+200300,PIURA,HUANCABAMBA,0.265,49.24,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+200400,PIURA,MORROPON,0.432,35.2,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+200500,PIURA,PAITA,0.548,22.51,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+200600,PIURA,SULLANA,0.542,21.94,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+200700,PIURA,TALARA,0.585,15.65,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+200800,PIURA,SECHURA,0.467,28.14,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+210100,PUNO,PUNO,0.543,27.15,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+210200,PUNO,AZANGARO,0.319,41.41,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+210300,PUNO,CARABAYA,0.34,49.31,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+210400,PUNO,CHUCUITO,0.345,48.58,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+210500,PUNO,EL COLLAO,0.379,41.1,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+210600,PUNO,HUANCANE,0.318,43.11,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+210700,PUNO,LAMPA,0.431,47.6,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+210800,PUNO,MELGAR,0.429,41.45,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+210900,PUNO,MOHO,0.28,47.93,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+211000,PUNO,SAN ANTONIO DE PUTINA,0.5,39.15,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+211100,PUNO,SAN ROMAN,0.559,23.11,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+211200,PUNO,SANDIA,0.408,37.94,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+211300,PUNO,YUNGUYO,0.371,45.23,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+220100,SAN MARTIN,MOYOBAMBA,0.488,21.8,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+220200,SAN MARTIN,BELLAVISTA,0.42,31.52,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+220300,SAN MARTIN,EL DORADO,0.331,34.97,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+220400,SAN MARTIN,HUALLAGA,0.408,21.98,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+220500,SAN MARTIN,LAMAS,0.364,28.74,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+220600,SAN MARTIN,MARISCAL CACERES,0.447,24.27,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+220700,SAN MARTIN,PICOTA,0.439,32.21,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+220800,SAN MARTIN,RIOJA,0.468,29.33,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+220900,SAN MARTIN,SAN MARTIN,0.608,15.34,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+221000,SAN MARTIN,TOCACHE,0.506,20.59,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+230100,TACNA,TACNA,0.608,14.64,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+230200,TACNA,CANDARAVE,0.368,26.88,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+230300,TACNA,JORGE BASADRE,0.68,7.9,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+230400,TACNA,TARATA,0.431,32.02,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+240100,TUMBES,TUMBES,0.59,10.2,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+240200,TUMBES,CONTRALMIRANTE VILLAR,0.544,10.8,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+240300,TUMBES,ZARUMILLA,0.509,9.46,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+250100,UCAYALI,CORONEL PORTILLO,0.523,9.49,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+250200,UCAYALI,ATALAYA,0.326,32.25,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+250300,UCAYALI,PADRE ABAD,0.439,10.55,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
+250400,UCAYALI,PURUS,0.348,31.93,REFERENCIAL_COMPILACION_TERCEROS_2019_NO_USAR_PARA_IDENTIFICACION_CAUSAL,https://github.com/jmcastagnetto/ubigeo-peru-aumentado/blob/main/ubigeo_provincia.csv
