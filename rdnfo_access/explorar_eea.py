@@ -5,7 +5,7 @@ from pathlib import Path
 
 DIR=Path('eea-salidas');DIR.mkdir(exist_ok=True)
 firms={};table_rows=[];summary=[];modules=[];seen_edition={};mat=[]
-for ed in range(2015,2020):
+for ed in range(2012,2021):
     url=f'https://www.inei.gob.pe/media/DATOS_ABIERTOS/EEA/DATA/{ed}.zip'
     with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0'}),timeout=90) as rsp:
         raw=rsp.read()
@@ -56,8 +56,8 @@ for ed in range(2015,2020):
         for (sector,form),n in detail.items():mat.append([ed,ed-1,sector,form,n])
     print('AUDIT',ed,'uniqueIRUC',len(base_codes),'c00',c00module,'records',len(master),'bytes',len(raw),flush=True)
 overlap=[]
-for a in range(2015,2020):
- for b in range(a+1,2020):
+for a in range(2012,2021):
+ for b in range(a+1,2021):
     shared=len(firms[a] & firms[b])
     overlap.append([a,b,len(firms[a]),len(firms[b]),shared,
       round(shared/max(1,len(firms[a])),4),
@@ -65,18 +65,18 @@ for a in range(2015,2020):
 def write(name,header,rows):
  with open(DIR/name,'w',newline='',encoding='utf-8-sig') as f:
   w=csv.writer(f);w.writerow(header);w.writerows(rows)
-write('EEA_Identificadores_Acumulados_2014_2018.csv',
+write('EEA_Identificadores_Acumulados_2011_2019.csv',
       ['edicion_eea','anio_economico_presunto','iruc_anonimizado','codsector','codformato',
        'nroestablec_c00','flagestablecimiento_c00','factor_exp_c00_original','cautela'],
       table_rows)
-write('EEA_Modulos_2015_2019.csv',['edicion_eea','anio_economico_presunto','modulo','cantidad_archivos_csv'],modules)
+write('EEA_Modulos_2012_2020.csv',['edicion_eea','anio_economico_presunto','modulo','cantidad_archivos_csv'],modules)
 write('EEA_Cobertura_Sector_Formato.csv',['edicion_eea','anio_economico_presunto','codsector','codformato','filas_c00'],mat)
 write('EEA_Cruces_IRUC_No_Validados.csv',
       ['edicion_a','edicion_b','ids_a','ids_b','identificadores_iguales','tasa_en_a','cautela'],overlap)
 if summary:
  write('EEA_Resumen_Descargas_Verificado.csv',list(summary[0]),[[s[k] for k in summary[0]] for s in summary])
 with open(DIR/'EEA_Archivo_y_Interpretacion.txt','w',encoding='utf-8') as f:
- f.write('Descargas oficiales INEI verificadas. a2014..a2018 refieren a marcas de los archivos, \n')
+ f.write('Descargas oficiales INEI verificadas. a2011..a2019 refieren a marcas de los archivos, \n')
  f.write('que no prueban por si solas el periodo de referencia de cada variable.\n')
  f.write('Los IRUC anonimizados se conservan sin asumir continuidad longitudinal.\n')
  f.write('No se calculan productividad, PTF ni ATT con estos archivos C00 solamente.\n')
