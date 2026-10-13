@@ -1,0 +1,54 @@
+name: Auditar datos EEA del INEI
+on:
+  push:
+    branches: [access-rdnfo-20261012]
+    paths:
+      - ".github/workflows/rdnfo-eea.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  survey:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar EEA y auditar formatos sin fabricar datos
+        run: |
+          mkdir -p audit-eea
+          python3 - <<'PY'
+          import urllib.request,zipfile,io,csv,os,json,hashlib,traceback
+          summaries=[]
+          for year in [2015,2016,2017,2018,2019]:
+            url=f'https://www.inei.gob.pe/media/DATOS_ABIERTOS/EEA/DATA/{year}.zip'
+            o=dict(edition=year,url=url)
+            try:
+              req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 (compatible; academic research)'})
+              with urllib.request.urlopen(req,timeout=40) as response:
+                b=response.read(300*1024*1024+1)
+              if len(b)>300*1024*1024:raise ValueError('ZIP demasiado grande; cancelar')
+              o['download_bytes']=len(b);o['sha256']=hashlib.sha256(b).hexdigest()
+              if not zipfile.is_zipfile(io.BytesIO(b)):raise ValueError('respuesta no es archivo zip valido: '+repr(b[:80]))
+              with zipfile.ZipFile(io.BytesIO(b)) as z:
+                infos=z.infolist()
+                o['n_files']=len(infos)
+                o['members']=[dict(name=i.filename,size=i.file_size) for i in infos][:75]
+                o['candidate_headings']=[]
+                for i in infos[:40]:
+                  if i.is_dir() or i.file_size>100000000:continue
+                  if not i.filename.lower().endswith(('.csv','.txt','.dta','.sav','.dbf','.xls','.xlsx')):continue
+                  with z.open(i) as f:h=f.read(1800)
+                  o['candidate_headings'].append({'name':i.filename,'sample_head':h[:450].decode('latin-1',errors='replace')})
+              print('EEA',year, 'OK',len(b),'bytes',len(infos),'members',flush=True)
+            except Exception as e:
+              o['error']=str(e);print('EEA',year,'ERROR',str(e)[:240],flush=True)
+            summaries.append(o)
+          with open('audit-eea/catalogo_archivos_INEI_2015_2019.json','w',encoding='utf-8') as out:
+            json.dump(summaries,out,ensure_ascii=False,indent=2)
+          PY
+      - name: Entregar auditoría descargable
+        uses: actions/upload-artifact@v4
+        with:
+          name: EEA_2015_2019_Auditoria_Oficial
+          path: audit-eea/
+          retention-days: 30
