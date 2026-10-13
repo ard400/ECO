@@ -1,0 +1,40 @@
+name: Recuperar Excel oficial OSIPTEL
+on:
+  push:
+    branches: [access-rdnfo-20261012]
+    paths:
+      - '.github/workflows/osiptel-original.yml'
+  workflow_dispatch:
+permissions: { contents: read }
+jobs:
+  descargar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - name: Descargar Excel original sin modificarlo
+        shell: bash
+        run: |
+          set -u
+          URL='https://www.datosabiertos.gob.pe/sites/default/files/5.%20CONEXIONES%20DE%20INTERNET%20FIJO.xlsx'
+          echo "Solicitando recurso oficial OSIPTEL"
+          curl --retry 2 --retry-delay 2 -L -sS --connect-timeout 15 --max-time 35 -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0' -o OSIPTEL_Original.xlsx -w 'HTTP %{http_code} SIZE %{size_download} TYPE %{content_type}\n' "$URL" || true
+          python3 - <<'PY'
+          import pathlib, zipfile
+          p=pathlib.Path('OSIPTEL_Original.xlsx')
+          print("EXISTE:",p.exists(),"BYTES:",p.stat().st_size if p.exists() else 0)
+          if p.exists():print("HEAD:",repr(p.read_bytes()[:160]))
+          if p.exists() and zipfile.is_zipfile(p):
+            with zipfile.ZipFile(p) as z:
+              print("EXCEL VÁLIDO. COMPONENTES:",z.namelist()[:15])
+          else:
+            print("EXCEL NO RECUPERADO DEL PORTAL")
+            p.unlink(missing_ok=True)
+          PY
+      - name: Guardar original si válido
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: Excel_Original_OSIPTEL
+          path: OSIPTEL_Original.xlsx
+          if-no-files-found: warn
+          retention-days: 10
