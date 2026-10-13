@@ -44,5 +44,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: RDNFO_Microsoft_Access_ACCDB
-          path: RDNFO_Seminario_Investigacion_Diaz_Rodas.accdb
+          path: |
+            RDNFO_Seminario_Investigacion_Diaz_Rodas.accdb
+            jackcess.jar
           retention-days: 30
